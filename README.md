@@ -1,4 +1,4 @@
-#            									  HI, I'm Even Temelso
+                                                  #HI, I'm Even Temelso
 
 💬Embarking on a tech journey as a Computer Information Systems student at the University of Louisville, where I blend the worlds of business and technology with a focus on Business Process Management. This portfolio is a collection of the projects, experiments, and ideas that have shaped my learning experience. Feel free to explore and see how I’m shaping the future, one project at a time. Thanks for visiting!
 
