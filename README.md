@@ -1,33 +1,77 @@
-                                                  #HI, I'm Even Temelso
+<div align="center">
+  <h1> Hi, I'm Even Temelso! 👋</h1>
+</div>
 
-💬Embarking on a tech journey as a Computer Information Systems student at the University of Louisville, where I blend the worlds of business and technology with a focus on Business Process Management. This portfolio is a collection of the projects, experiments, and ideas that have shaped my learning experience. Feel free to explore and see how I’m shaping the future, one project at a time. Thanks for visiting!
 
-Internships:
 
-MIS IT Intern for GUESS: August 2024 - present
-System Administrator:
+### **Welcome to my GitHub portfolio!**
 
-Cover Letter
-Resume
-Database Design and Applications:
+<p align="center">
+  Embarking on a tech journey as a <strong>Computer Information Systems</strong> student at the <strong>University of Louisville</strong>, where I blend the worlds of business and technology with a focus on <strong>Business Process Management</strong>.  
+  This portfolio is a collection of the projects, experiments, and ideas that have shaped my learning experience.  
+  Feel free to explore and see how I’m shaping the future, one project at a time. Thanks for visiting! 😊
+</p>
 
-Crow's Foot ERD
 
-Sql query Excersise
 
-Programming Skills:
+---
 
-Calculator
+## 🎓 **Internship Experience**
+**MIS IT Intern** at **GUESS**  
+*August 2024 - Present*  
+- Administer and maintain computer systems, ensuring smooth operations.  
+- Install, configure, and upgrade workstations, printers, and software.  
+- Manage user accounts within Microsoft Domain and PKMS (AS400).  
+- Troubleshoot KYDC material handling systems and work with SQL and web technologies.
 
-Temperature mean finder
+---
 
-Loop code
+## 🛠️ **Key Projects**
 
-Skills:
+### **Business and Systems Analysis**
+- 📄 [Cover Letter](#)
+- 📄 [Resume](#)
 
-✨•Customer-focused • Project Management • HTML • C# • Microsoft sql • GIT-HUB • VisualStudios • LucidChart • Microsoft Azure Cloud •WIX Studion •APIs •MySQL •.Net •PowerShell •Command Line •IDE’s Visual Studio •Microsoft Office Word, Excel, PowerPoint •Server based installations/upgrades •Jira .✨
-Personal/Professional Reference:
+### **Database Design and Applications**
+- 🗂️ [Crow's Foot ERD](#)
+- 💻 [SQL Query Exercises](#)
 
-Connect with me:
+### **Programming Skills**
+- 🔢 [Calculator](#)
+- 🌡️ [Temperature Mean Finder](#)
+- 🔁 [Loop Code](#)
 
-linkedin: www.linkedin.com/in/even-temelso-5b0346252
+---
+
+## 🔧 **Skills & Technologies**
+- **Customer-focused**  
+- **Project Management**
+
+### **Web Development:**
+- HTML | Wix | APIs
+
+### **Programming Languages:**
+- C# | .NET | PowerShell
+
+### **Databases:**
+- Microsoft SQL | MySQL
+
+### **Version Control & Collaboration:**
+- Git | GitHub | Git Bash
+
+### **Cloud Technologies:**
+- Microsoft Azure Cloud | AzureAD
+
+### **Tools & Platforms:**
+- Visual Studio | LucidChart | Jira  
+- Microsoft Office (Word, Excel, PowerPoint)
+
+---
+
+## 🌐 **Connect with Me**
+- [LinkedIn](your-linkedin-url)
+
+---
+
+Thank you again for visiting my portfolio! Feel free to reach out if you’d like to collaborate or have any questions about my work. Let’s connect and build something amazing! 🚀
+
