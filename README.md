@@ -69,7 +69,7 @@
 ---
 
 ## 🌐 **Connect with Me**
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](www.linkedin.com/in/even-temelso-5b0346252)
 
 ---
 
