@@ -30,7 +30,7 @@
 
 ### **Business and Systems Analysis**
 - 📄 [Cover Letter](#)
-- 📄 [Resume](#)
+- 📄 [Resume]()
 
 ### **Database Design and Applications**
 - 🗂️ [Crow's Foot ERD](#)
