@@ -52,7 +52,7 @@
 - [UFD/SAD](https://github.com/Tawneystitt/SAD-UFD )
 - [RTM Created for our nonprofit development](https://github.com/Tawneystitt/RTM)
 - [System Requirements](https://github.com/Tawneystitt/SystemRequirements/blob/main/README.md)
-- [Use Cases](https://github.com/Tawneystitt/UseCases/blob/main/README.md)
+- [Use Cases](https://github.com/etemelso01/Use-Cases/tree/main)
 - [Iteration](https://github.com/Tawneystitt/Iteration-320/blob/main/README.md)
 </ul>
 
