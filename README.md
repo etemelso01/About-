@@ -42,7 +42,7 @@
  
 ### **Mgmt of Information Systems**
 
-- [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
+- [Strategic Assessment](https://github.com/etemelso01/Strategy-Assesment-Report)
 - [Case Study Report A](https://github.com/etemelso01/Case-Study-A)
 - [Case Study Report B](https://github.com/etemelso01/Case-Study-B/tree/main)
 </ul>
