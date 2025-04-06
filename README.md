@@ -1,6 +1,7 @@
 <div align="center">
   <h1> Hi, I'm Even Temelso! 👋</h1>
-  
+  <img width="614" alt="image" src="https://github.com/user-attachments/assets/00c06de1-0b4a-4c18-b1d7-c9d460f6a548" />
+
 </div>
 
 
