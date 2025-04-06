@@ -40,7 +40,7 @@
   - [Query excersise A](https://github.com/etemelso01/SQL-Query-Excercise-A)
   - [Query excersise B](https://github.com/etemelso01/SQL-Query-Excercise-B)
  
-<h2> Mgmt of Information Systems:</h2>
+### **Mgmt of Information Systems**
 
 - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
 - [Case Study Report A](https://github.com/etemelso01/Case-Study-A)
