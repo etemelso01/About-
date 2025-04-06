@@ -36,7 +36,7 @@
 
 ### **Database Design and Applications**
 - 🗂️ [Crow's Foot ERD](https://github.com/etemelso01/Crow-s-Foot-ERD/tree/main)
-- 💻 [SQL Query Exercises](#) 
+- 💻 [SQL Query Exercises] 
   - [Query excersise A](https://github.com/etemelso01/SQL-Query-Excercise-A)
   - [Query excersise B](https://github.com/etemelso01/SQL-Query-Excercise-B)
  
@@ -57,9 +57,9 @@
 
 
 ### **Programming Skills**
-- 🔢 [Calculator](#)
-- 🌡️ [Temperature Mean Finder](#)
-- 🔁 [Loop Code](#)
+- 🔢 [Dental Cost Calculator](https://github.com/etemelso01/C-Sharp-Program-Calculator)
+- 🌡️ [Application Eligibility Calculator](#)
+
 
 ---
 
