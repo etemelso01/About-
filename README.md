@@ -35,11 +35,9 @@
 
 ### **Database Design and Applications**
 - 🗂️ [Crow's Foot ERD](https://github.com/etemelso01/Crow-s-Foot-ERD/tree/main)
-- 💻 [SQL Query Exercises](#) <ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-  <li>Item 4</li>
+- 💻 [SQL Query Exercises](#) 
+  - [Query excersise A](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
+  - [Query excersise B](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
 </ul>
 
 
