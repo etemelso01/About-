@@ -35,7 +35,13 @@
 
 ### **Database Design and Applications**
 - 🗂️ [Crow's Foot ERD](https://github.com/etemelso01/Crow-s-Foot-ERD/tree/main)
-- 💻 [SQL Query Exercises](#)
+- 💻 [SQL Query Exercises](#) <ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <li>Item 4</li>
+</ul>
+
 
 ### **Programming Skills**
 - 🔢 [Calculator](#)
