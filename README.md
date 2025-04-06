@@ -29,7 +29,7 @@
 ## 🛠️ **Key Projects**
 
 ### **Business and Systems Analysis**
-- 📄 [Cover Letter](#)
+- 📄 [Cover Letter](https://github.com/etemelso01/Cover-Letter)
 - 📄 [Resume](https://github.com/etemelso01/Resume/blob/main/README.md)
 
 ### **Database Design and Applications**
