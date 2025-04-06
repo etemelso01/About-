@@ -34,7 +34,7 @@
 - 📄 [Resume](https://github.com/etemelso01/Resume/blob/main/README.md)
 
 ### **Database Design and Applications**
-- 🗂️ [Crow's Foot ERD](#)
+- 🗂️ [Crow's Foot ERD](https://github.com/etemelso01/Crow-s-Foot-ERD/tree/main)
 - 💻 [SQL Query Exercises](#)
 
 ### **Programming Skills**
