@@ -37,7 +37,7 @@
 - 🗂️ [Crow's Foot ERD](https://github.com/etemelso01/Crow-s-Foot-ERD/tree/main)
 - 💻 [SQL Query Exercises](#) 
   - [Query excersise A](https://github.com/etemelso01/SQL-Query-Excercise-A)
-  - [Query excersise B](https://github.com/Tawneystitt/SQL-query/blob/main/README.md)
+  - [Query excersise B](https://github.com/etemelso01/SQL-Query-Excercise-B)
 </ul>
 
 
