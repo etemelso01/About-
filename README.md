@@ -44,7 +44,7 @@
 
 - [Strategic Assessment](https://github.com/Tawneystitt/IT-assessment-/blob/main/README.md)
 - [Case Study Report A](https://github.com/etemelso01/Case-Study-A)
-- [Case Study Report](https://github.com/Tawneystitt/Case-Report-2/blob/main/README.md)
+- [Case Study Report B](https://github.com/etemelso01/Case-Study-B/tree/main)
 </ul>
 
 
