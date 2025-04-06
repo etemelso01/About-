@@ -30,7 +30,7 @@
 
 ### **Business and Systems Analysis**
 - 📄 [Cover Letter](#)
-- 📄 [Resume](Resume)
+- 📄 [Resume](https://github.com/etemelso01/Resume/blob/main/README.md)
 
 ### **Database Design and Applications**
 - 🗂️ [Crow's Foot ERD](#)
