@@ -49,9 +49,8 @@
 ### **System and Analysis Design & Development Projects**
 
 - [Waitlist/Booking scheduling site for Non Profit company](https://github.com/Tawneystitt/Waitlist-booking/blob/main/README.md)
-- [UFD/SAD](https://github.com/Tawneystitt/SAD-UFD )
 - [RTM Created for our nonprofit development](https://github.com/etemelso01/RTM)
-- [System Requirements](https://github.com/Tawneystitt/SystemRequirements/blob/main/README.md)
+- [System Requirements](https://github.com/etemelso01/System-Requirements/tree/main)
 - [Use Cases](https://github.com/etemelso01/Use-Cases/tree/main)
 - [Iteration](https://github.com/etemelso01/Iteration/blob/main/README.md)
 </ul>
