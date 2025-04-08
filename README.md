@@ -57,8 +57,9 @@
 
 
 ### **Programming Skills**
-- 🔢 [Dental Cost Calculator](https://github.com/etemelso01/C-Sharp-Program-Calculator)
-- 🌡️ [Application Eligibility Calculator](https://github.com/etemelso01/C-Sharp-Program-Calculator-B/tree/main)
+- 🦷 [Dental Cost Calculator](https://github.com/etemelso01/C-Sharp-Program-Calculator)
+- 🔢 [Application Eligibility Calculator](https://github.com/etemelso01/C-Sharp-Program-Calculator-B/tree/main)
+- 🌡️ [Temperature Mean Calculator](https://github.com/etemelso01/Temperature-Mean-Calculator)
 
 
 ---
